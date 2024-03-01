@@ -15,7 +15,7 @@ pass: anon-cs-dus2
 pass: anon-cs-dus3
 pass: anon-cs-dus4
 pass: anon-cs-finland
-pass: anon-cs-fl (1 retry)
+pass: anon-cs-fl
 pass: anon-cs-fl2
 pass: anon-cs-fr
 pass: anon-cs-ga
@@ -143,4 +143,3 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
-pass: dnscry.pt-anon-warsaw02-ipv4
