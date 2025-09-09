@@ -48,9 +48,9 @@ pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
-pass: anon-scaleway2 (3 retries)
+pass: anon-scaleway2
 pass: anon-serbica
-pass: anon-tiarap (1 retry)
+pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
@@ -119,7 +119,6 @@ pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
 pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
-pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
@@ -134,8 +133,8 @@ pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newcastle-ipv4
-pass: dnscry.pt-anon-newyork-ipv4 (1 retry)
-pass: dnscry.pt-anon-nuremberg-ipv4 (1 retry)
+pass: dnscry.pt-anon-newyork-ipv4
+pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
 pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-palermo-ipv4
@@ -161,6 +160,7 @@ pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
+pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
